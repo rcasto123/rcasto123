@@ -24,4 +24,4 @@
 
 ## Links
 
-🌐 [robertcas.to](https://robertcas.to) · 💼 [LinkedIn](https://linkedin.com/in/) <!-- add your LinkedIn handle -->
+🌐 [robertcas.to](https://robertcas.to) · 💼 [LinkedIn](https://www.linkedin.com/in/robert-casto/)
