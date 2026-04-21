@@ -1,22 +1,28 @@
-# Hi, I'm Robert Casto 👋
+# Robert Casto
 
 **IT Operations Leader** at [Aircall](https://aircall.io) — building tools that help IT teams move faster.
 
-## What I'm Building
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rcasto123&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/rcasto123)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rcasto123&layout=compact&theme=dark&hide_border=true)](https://github.com/rcasto123)
 
-| Project | Description |
-|---|---|
-| [**Floorcraft**](https://github.com/rcasto123/Floorcraft) | Interactive office floor planner & seating management |
-| [**itpm**](https://github.com/rcasto123/itpm) | MS Project-style IT Ops project management app |
-| [**slack-buddy**](https://github.com/rcasto123/slack-buddy) | AI-powered Slack companion |
-| [**voxel-buddy**](https://github.com/rcasto123/voxel-buddy) | Animated 3D voxel characters with Three.js |
-| [**absolutedctracker.com**](https://absolutedctracker.com) | DC Absolute Universe collection tracker |
+## Currently Building
+
+**[Floorcraft](https://floorcraft.space)** — Interactive office floor planner and seating management. React 19 + TypeScript + Supabase. [→ repo](https://github.com/rcasto123/Floorcraft2)
+
+## Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**Floorcraft**](https://github.com/rcasto123/Floorcraft2) | Office floor planner & seating management | TypeScript, React, Supabase |
+| [**voxel-buddy**](https://github.com/rcasto123/voxel-buddy) | Desktop companion with 3D voxel mascots | Electron, Three.js, React |
+| [**slack-buddy**](https://github.com/rcasto123/slack-buddy) | Slack DM notification desktop mascot | Python, Tkinter, Slack SDK |
+| [**absolute-dc-tracker**](https://github.com/rcasto123/absolute-dc-tracker) | DC Absolute Universe collection tracker | Vanilla JS, Firebase, PWA |
 
 ## Stack
 
-`TypeScript` · `React` · `Python` · `Vite` · `Three.js`
+`TypeScript` · `React` · `Python` · `Vite` · `Supabase` · `Electron` · `Three.js`
 
 ## Links
 
-🌐 [robertcas.to](https://robertcas.to)
+🌐 [robertcas.to](https://robertcas.to) · 💼 [LinkedIn](https://linkedin.com/in/) <!-- add your LinkedIn handle -->
 
