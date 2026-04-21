@@ -7,13 +7,13 @@
 
 ## Currently Building
 
-**[Floorcraft](https://floorcraft.space)** — Interactive office floor planner and seating management. React 19 + TypeScript + Supabase. [→ repo](https://github.com/rcasto123/Floorcraft2)
+**[Floorcraft](https://floorcraft.space)** — Interactive office floor planner and seating management. React 19 + TypeScript + Supabase. [→ repo](https://github.com/rcasto123/Floorcraft)
 
 ## Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Floorcraft**](https://github.com/rcasto123/Floorcraft2) | Office floor planner & seating management | TypeScript, React, Supabase |
+| [**Floorcraft**](https://github.com/rcasto123/Floorcraft) | Office floor planner & seating management | TypeScript, React, Supabase |
 | [**voxel-buddy**](https://github.com/rcasto123/voxel-buddy) | Desktop companion with 3D voxel mascots | Electron, Three.js, React |
 | [**slack-buddy**](https://github.com/rcasto123/slack-buddy) | Slack DM notification desktop mascot | Python, Tkinter, Slack SDK |
 | [**absolute-dc-tracker**](https://github.com/rcasto123/absolute-dc-tracker) | DC Absolute Universe collection tracker | Vanilla JS, Firebase, PWA |
@@ -25,4 +25,3 @@
 ## Links
 
 🌐 [robertcas.to](https://robertcas.to) · 💼 [LinkedIn](https://linkedin.com/in/) <!-- add your LinkedIn handle -->
-
